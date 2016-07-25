@@ -1,6 +1,6 @@
 /// <reference path="../typings/globals/jquery/index.d.ts" />
 
-export class A {
+export class Greeter {
     public Text: string;
 
     public constructor(text: string){
